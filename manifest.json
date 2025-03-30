@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Space Shooter Extension",
+  "author": "Baby_Xeno", 
+  "version": "1.0",
+  "description": "Shoot Asteroids, Collect Perks, Avoid Collisions and last as long as you can!",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Space Shooter"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
